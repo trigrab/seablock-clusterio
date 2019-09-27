@@ -1,22 +1,14 @@
 {
-  "name": "SeaBlock",
-  "version": "0.3.7",
+  "name": "SeaBlock-clusterio",
+  "version": "0.0.1",
   "factorio_version": "0.17",
-  "title": "Sea Block",
+  "title": "Sea Block Clusterio",
   "author": "Trainwreck",
   "homepage": "https://forums.factorio.com/viewtopic.php?t=43759",
-  "description": "No ore patches, expand from a small island. Also install the 'Sea Block Pack' mod and all dependencies for a more complete modpack",
+  "description": "Same as seablock but with clusterio get and put chests on start",
   "dependencies": [
     "base",
-    "angelsbioprocessing",
-    "angelsrefining",
-    "angelspetrochem",
-    "bobelectronics",
-    "boblogistics",
-    "? KS_Power",
-    "? A Sea Block Config",
-    "? LandfillPainting",
-    "? ScienceCostTweakerM",
-    "? SpaceMod"
+    "SeaBlock",
+    "clusterio"
   ]
 }
